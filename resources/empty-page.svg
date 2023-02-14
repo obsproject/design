@@ -26,9 +26,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="435"
-     inkscape:cy="486"
+     inkscape:zoom="0.6640625"
+     inkscape:cx="1432.0941"
+     inkscape:cy="879.43529"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,6 +84,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-682.79187,-1775.9158)">
+    <rect
+       style="fill:#1f212a"
+       id="rect357"
+       width="2520.0002"
+       height="1759.9998"
+       x="682.79187"
+       y="1775.9158"
+       inkscape:label="background-rect" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot12300"
