@@ -976,11 +976,11 @@
      inkscape:window-height="1371"
      inkscape:window-width="2560"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g84193"
      inkscape:document-units="px"
-     inkscape:cy="818.16216"
-     inkscape:cx="1055.1351"
-     inkscape:zoom="0.578125"
+     inkscape:cy="340.86487"
+     inkscape:cx="1864.4865"
+     inkscape:zoom="18.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
@@ -1575,7 +1575,7 @@
       <path
          id="path84181"
          style="fill:#2b2e38;stroke:#3c404b"
-         d="m 1106.0004,-3703.7825 807.1168,0.8609 c 3.324,0 5.9827,2.676 6,6 l 0.366,27.6542 h -603.0738 v 524.0046 h -209.5073 c -4.8919,0 -6.9018,-2.6306 -6.9018,-7.2916 l 10e-5,-545.2284 c 0,-3.324 2.676,-6.0035 6,-6 z"
+         d="m 1106.0004,-3703.7825 h 807.4952 c 3.324,0 6.0014,2.676 6,6 l -0.012,28.5191 h -603.0738 v 524.0046 h -209.5073 c -4.8919,0 -6.9018,-2.6306 -6.9018,-7.2916 l 10e-5,-545.2284 c 0,-3.324 2.676,-6.0035 6,-6 z"
          sodipodi:nodetypes="ssscccccsss" />
       <g
          id="g84191"
