@@ -372,9 +372,9 @@
        inkscape:label="Drop Shadow"
        id="filter71344-5-5-7"
        x="-0.1527306"
-       y="-0.30172735"
+       y="-0.29438112"
        width="1.3054612"
-       height="1.6446462">
+       height="1.6289508">
       <feFlood
          flood-opacity="0.486275"
          flood-color="rgb(0,0,0)"
@@ -409,6 +409,12 @@
        width="341.46814"
        height="108.66244"
        id="rect97939" />
+    <rect
+       x="120.749"
+       y="377.14346"
+       width="341.46814"
+       height="108.66244"
+       id="rect14163" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -417,9 +423,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="880"
-     inkscape:cy="525"
+     inkscape:zoom="0.77069092"
+     inkscape:cx="1401.34"
+     inkscape:cy="1015.9715"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -600,13 +606,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-opacity:0.601296"
-         x="49.21944"
+         x="135.21532"
          y="160.2852"
          id="text20619"><tspan
            sodipodi:role="line"
            id="tspan20617"
-           x="49.21944"
-           y="160.2852">Twitch Scenes</tspan></text>
+           x="135.21532"
+           y="160.2852"
+           style="text-align:end;text-anchor:end">Twitch Scenes</tspan></text>
     </g>
     <flowRoot
        xml:space="preserve"
@@ -791,19 +798,19 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            x="254.59192"
-           y="-3585.8379"
+           y="-3584.7568"
            id="text4725"><tspan
              sodipodi:role="line"
              id="tspan4723"
              x="254.59192"
-             y="-3585.8379">Scene Collection 1</tspan></text>
+             y="-3584.7568">Scene Collection 1</tspan></text>
         <text
            id="text4733"
-           y="-3491.8376"
+           y="-3490.7566"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="-3491.8376"
+             y="-3490.7566"
              x="254.59192"
              id="tspan4731"
              sodipodi:role="line">Scene Collection 3</tspan></text>
@@ -811,29 +818,30 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            x="254.59192"
-           y="-3444.8376"
+           y="-3443.7566"
            id="text4737"><tspan
              sodipodi:role="line"
              id="tspan4735"
              x="254.59192"
-             y="-3444.8376">Scene Collection 4</tspan></text>
+             y="-3443.7566">Scene Collection 4</tspan></text>
         <text
            id="text4749"
-           y="-3538.8379"
+           y="-3537.7568"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="-3538.8379"
+             y="-3537.7568"
              x="254.59192"
              id="tspan4747"
-             sodipodi:role="line">Scene Collection 2</tspan></text>
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Scene Collection 2</tspan></text>
         <text
            id="text4757"
-           y="-3397.8374"
+           y="-3396.7563"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="-3397.8374"
+             y="-3396.7563"
              x="254.59192"
              id="tspan4755"
              sodipodi:role="line">Scene Collection 5</tspan></text>
@@ -841,19 +849,19 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            x="254.59192"
-           y="-3303.8372"
+           y="-3302.7561"
            id="text4765"><tspan
              sodipodi:role="line"
              id="tspan4763"
              x="254.59192"
-             y="-3303.8372">Scene Collection 7</tspan></text>
+             y="-3302.7561">Scene Collection 7</tspan></text>
         <text
            id="text4769"
-           y="-3256.8372"
+           y="-3255.7561"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="-3256.8372"
+             y="-3255.7561"
              x="254.59192"
              id="tspan4767"
              sodipodi:role="line">Scene Collection 8</tspan></text>
@@ -861,12 +869,12 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
            x="254.59192"
-           y="-3350.8374"
+           y="-3349.7563"
            id="text4781"><tspan
              sodipodi:role="line"
              id="tspan4779"
              x="254.59192"
-             y="-3350.8374">Scene Collection 6</tspan></text>
+             y="-3349.7563">Scene Collection 6</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
@@ -887,6 +895,10 @@
              x="254.59192"
              id="tspan4795"
              sodipodi:role="line">Title</tspan></text>
+        <path
+           style="opacity:1;fill:none;fill-opacity:0.996094;stroke:#365cc0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.98431373"
+           d="m 240.57033,-3464.9645 v 47.0001"
+           id="path15794" />
         <g
            transform="translate(0,-1354)"
            id="g4817"
@@ -950,19 +962,19 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            x="254.59192"
-           y="-3567.8379"
+           y="-3568.9189"
            id="text28950"><tspan
              sodipodi:role="line"
              id="tspan28948"
              x="254.59192"
-             y="-3567.8379">Today, 1:15 PM</tspan></text>
+             y="-3568.9189">Today, 1:15 PM</tspan></text>
         <text
            id="text28954"
-           y="-3473.8376"
+           y="-3474.9187"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            xml:space="preserve"><tspan
-             y="-3473.8376"
+             y="-3474.9187"
              x="254.59192"
              id="tspan28952"
              sodipodi:role="line">Last year</tspan></text>
@@ -970,29 +982,30 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            x="254.59192"
-           y="-3426.8376"
+           y="-3427.9187"
            id="text28958"><tspan
              sodipodi:role="line"
              id="tspan28956"
              x="254.59192"
-             y="-3426.8376">4 months ago</tspan></text>
+             y="-3427.9187">4 months ago</tspan></text>
         <text
            id="text28962"
-           y="-3520.8379"
+           y="-3521.9189"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            xml:space="preserve"><tspan
-             y="-3520.8379"
+             y="-3521.9189"
              x="254.59192"
              id="tspan28960"
-             sodipodi:role="line">Yesterday</tspan></text>
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Yesterday</tspan></text>
         <text
            id="text28966"
-           y="-3379.8374"
+           y="-3380.9185"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            xml:space="preserve"><tspan
-             y="-3379.8374"
+             y="-3380.9185"
              x="254.59192"
              id="tspan28964"
              sodipodi:role="line">Last week</tspan></text>
@@ -1000,19 +1013,19 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            x="254.59192"
-           y="-3285.8372"
+           y="-3286.9182"
            id="text28970"><tspan
              sodipodi:role="line"
              id="tspan28968"
              x="254.59192"
-             y="-3285.8372">Today, 9AM</tspan></text>
+             y="-3286.9182">Today, 9AM</tspan></text>
         <text
            id="text28974"
-           y="-3238.8372"
+           y="-3239.9182"
            x="254.59192"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            xml:space="preserve"><tspan
-             y="-3238.8372"
+             y="-3239.9182"
              x="254.59192"
              id="tspan28972"
              sodipodi:role="line">Last century</tspan></text>
@@ -1020,12 +1033,12 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:0.383941;stroke:none"
            x="254.59192"
-           y="-3332.8374"
+           y="-3333.9185"
            id="text28978"><tspan
              sodipodi:role="line"
              id="tspan28976"
              x="254.59192"
-             y="-3332.8374">2 weeks ago</tspan></text>
+             y="-3333.9185">2 weeks ago</tspan></text>
         <path
            d="m 654.85206,-3589.3014 c -1.10546,0 -2,0.8945 -2,2 0,1.1055 0.89454,2 2,2 1.10157,0 2,-0.8945 2,-2 0,-1.1055 -0.89843,-2 -2,-2 z m 0,6 c -1.10546,0 -2,0.8945 -2,2 0,1.1055 0.89454,2 2,2 1.10157,0 2,-0.8945 2,-2 0,-1.1055 -0.89843,-2 -2,-2 z m 0,6 c -1.10546,0 -2,0.8945 -2,2 0,1.1055 0.89454,2 2,2 1.10157,0 2,-0.8945 2,-2 0,-1.1055 -0.89843,-2 -2,-2 z m 0,0"
            fill="#2e3436"
@@ -1066,6 +1079,11 @@
            fill="#2e3436"
            id="path72375"
            style="fill:#ffffff;fill-opacity:1" />
+        <path
+           d="m 630.46792,-3445.0592 -1,-1 -7.4687,7.5156 -3.4141,-3.4766 -2,2 5.4141,5.4766 9.4687,-9.5156 z m 0,0"
+           fill="#222222"
+           id="path91144-5"
+           style="display:inline;fill:#ffffff;fill-opacity:1" />
       </g>
       <g
          fill="#222222"
@@ -1262,11 +1280,16 @@
          style="fill:#1f212a;fill-opacity:1;stroke:#3c404b;stroke-opacity:0.41469;filter:url(#filter71344-5-5-7)"
          id="rect15021-9-5"
          width="191.84106"
-         height="97.107536"
+         height="130.31647"
          x="1380.0002"
          y="-3703.2825"
          rx="4"
          ry="4" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#3c404b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"
+         d="m 1390.3696,-3610.4647 171.1023,-0.3152"
+         id="path23311-6"
+         sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.14242"
@@ -1281,22 +1304,32 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.14242"
          x="1396.2515"
-         y="-3648.1765"
+         y="-3651.752"
          id="text23201-5"><tspan
            sodipodi:role="line"
            id="tspan23199-3"
            x="1396.2515"
-           y="-3648.1765">Duplicate</tspan></text>
+           y="-3651.752">Duplicate</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.14242"
          x="1396.2515"
-         y="-3620.8064"
+         y="-3624.4321"
          id="text94481"><tspan
            sodipodi:role="line"
            id="tspan94479"
            x="1396.2515"
-           y="-3620.8064">Export…</tspan></text>
+           y="-3624.4321">Export…</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.14242"
+         x="1396.2515"
+         y="-3587.6287"
+         id="text21108"><tspan
+           sodipodi:role="line"
+           id="tspan21106"
+           x="1396.2515"
+           y="-3587.6287">Delete…</tspan></text>
     </g>
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#555b6f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Dot)"
@@ -1310,10 +1343,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect24643);display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="120.74805"
          y="389.28987"
-         id="tspan110972">Scenes dock contains a menu button for scene </tspan><tspan
+         id="tspan23093">Scenes dock contains a menu button for scene </tspan><tspan
          x="120.74805"
          y="406.62315"
-         id="tspan110974">collections</tspan></text>
+         id="tspan23095">collections</tspan></text>
     <text
        xml:space="preserve"
        transform="translate(1194.3084,1776.5071)"
@@ -1321,11 +1354,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect26213);display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="120.74805"
          y="389.28987"
-         id="tspan110976">- Show 10 (?) most recently used collections
+         id="tspan23097">- Show 10 (?) most recently used collections
 </tspan><tspan
          x="120.74805"
          y="406.62315"
-         id="tspan110978">- Opens the dialog to manage collections</tspan></text>
+         id="tspan23099">- Opens the dialog to manage collections</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#555b6f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker26761)"
        d="m 1560.08,2345.8658 h 134.384 l 0.3071,-81.1994 H 1840.08"
@@ -1338,27 +1371,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect38419);shape-padding:0.311481;display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="121.06055"
          y="389.60237"
-         id="tspan110980">- Add / rename  single collection
+         id="tspan23101">- Add / rename  single collection
 </tspan><tspan
          x="121.06055"
          y="406.93565"
-         id="tspan110982">- Import and export collections
+         id="tspan23103">- Import and export collections
 </tspan><tspan
          x="121.06055"
          y="424.26893"
-         id="tspan110984">- Remove / duplicate collections in batch
+         id="tspan23105">- Remove / duplicate collections in batch
 </tspan><tspan
          x="121.06055"
          y="441.60222"
-         id="tspan110986">- Search for collections
+         id="tspan23107">- Search for collections
 </tspan><tspan
          x="121.06055"
          y="458.9355"
-         id="tspan110988">- Sort by name or recently used
+         id="tspan23109">- Sort by name or recently used
 </tspan><tspan
          x="121.06055"
          y="476.26878"
-         id="tspan110990">- Completely navigatable by keyboard</tspan></text>
+         id="tspan23111">- Completely navigatable by keyboard</tspan></text>
     <text
        xml:space="preserve"
        transform="translate(2059.9189,1723.7135)"
@@ -1366,15 +1399,15 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect45996);shape-padding:0.311481;display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="121.06055"
          y="389.60237"
-         id="tspan110992">- Focused by default the the dialog is created
+         id="tspan23113">- Focused by default the the dialog is created
 </tspan><tspan
          x="121.06055"
          y="406.93565"
-         id="tspan110994">- Typing anywhere on the window starts search
+         id="tspan23115">- Typing anywhere on the window starts search
 </tspan><tspan
          x="121.06055"
          y="424.26893"
-         id="tspan110996">- Pressing enter activates the first item of the list</tspan></text>
+         id="tspan23117">- Pressing enter activates the first item of the list</tspan></text>
     <text
        xml:space="preserve"
        transform="translate(2321.4033,2044.9701)"
@@ -1382,17 +1415,17 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46360);shape-padding:0.311481;display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="121.06055"
          y="389.60237"
-         id="tspan110998">- Row activates on single click (left click)
+         id="tspan23119">- Row activates on single click (left click)
 </tspan><tspan
          x="121.06055"
          y="406.93565"
-         id="tspan111000">- Right click enters selection mode
+         id="tspan23121">- Right click enters selection mode
 </tspan><tspan
          x="121.06055"
          y="424.26893"
-         id="tspan111004">- <tspan
+         id="tspan23125">- <tspan
    style="font-weight:bold"
-   id="tspan111002">Ctrl + R</tspan> initiates renaming of the focused row</tspan></text>
+   id="tspan23123">Ctrl + R</tspan> initiates renaming of the focused row</tspan></text>
     <path
        style="display:inline;fill:none;fill-opacity:0.374017;stroke:#bb02ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.466385;marker-start:url(#Diamond-11);marker-end:url(#marker45736-7)"
        d="m 2319.8213,2252.8283 v -57.8266 l 108.7661,0"
@@ -1405,13 +1438,13 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46742);shape-padding:0.311481;display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="121.06055"
          y="389.60237"
-         id="tspan111006">- Enter selection mode
+         id="tspan23127">- Enter selection mode
 </tspan><tspan
          x="121.06055"
          y="406.93565"
-         id="tspan111010">- Keyboard Shortcut: <tspan
+         id="tspan23131">- Keyboard Shortcut: <tspan
    style="font-weight:bold"
-   id="tspan111008">Ctrl + L</tspan> (?)</tspan></text>
+   id="tspan23129">Ctrl + L</tspan> (?)</tspan></text>
     <g
        id="g49607"
        transform="translate(460.07976,6577.8429)"
@@ -1465,7 +1498,8 @@
       <g
          id="g69918-7"
          transform="translate(1609.1246,-3938.7627)"
-         style="display:inline">
+         style="display:inline"
+         inkscape:label="delete-button">
         <rect
            style="fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
            id="rect69912-5"
@@ -1581,6 +1615,15 @@
            x="239.5"
            y="-2251.9646"
            transform="translate(0,-1354.1732)" />
+        <path
+           style="display:inline;fill:none;fill-opacity:0.996094;stroke:#365cc0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.984314"
+           d="m 240.58997,-3464.8665 v 47.0001"
+           id="path15794-7" />
+        <path
+           d="m 661.29346,-3445.6141 -1,-1 -7.4687,7.5156 -3.4141,-3.4766 -2,2 5.4141,5.4766 9.4687,-9.5156 z m 0,0"
+           fill="#222222"
+           id="path91144-5-4"
+           style="display:inline;fill:#ffffff;fill-opacity:1" />
         <g
            transform="translate(0,-1354)"
            id="g49525"
@@ -1758,26 +1801,6 @@
              id="tspan53329"
              sodipodi:role="line">Last week</tspan></text>
         <text
-           id="text53335"
-           y="-3447.8999"
-           x="282.54501"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-3447.8999"
-             x="282.54501"
-             id="tspan53333"
-             sodipodi:role="line">Scene Collection 4</tspan></text>
-        <text
-           id="text53339"
-           y="-3431.9336"
-           x="282.54501"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="-3431.9336"
-             x="282.54501"
-             id="tspan53337"
-             sodipodi:role="line">4 months ago</tspan></text>
-        <text
            id="text53343"
            y="-3351.5046"
            x="282.54501"
@@ -1816,15 +1839,38 @@
              id="path53351"
              style="display:inline;fill:#f8f9fd;fill-opacity:1" />
         </g>
-        <rect
-           style="display:inline;fill:#3c404b;fill-opacity:1;stroke:#63666f;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           id="rect53355"
-           width="16"
-           height="16"
-           x="254.5919"
-           y="-3450.8748"
-           rx="4"
-           ry="4" />
+        <g
+           id="g13085">
+          <text
+             id="text53335"
+             y="-3445.3359"
+             x="282.54501"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="-3445.3359"
+               x="282.54501"
+               id="tspan53333"
+               sodipodi:role="line">Scene Collection 4</tspan></text>
+          <text
+             id="text53339"
+             y="-3429.3696"
+             x="282.54501"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="-3429.3696"
+               x="282.54501"
+               id="tspan53337"
+               sodipodi:role="line">4 months ago</tspan></text>
+          <rect
+             style="display:inline;fill:#3c404b;fill-opacity:1;stroke:#63666f;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+             id="rect53355"
+             width="16"
+             height="16"
+             x="254.5919"
+             y="-3448.3108"
+             rx="4"
+             ry="4" />
+        </g>
         <rect
            style="display:inline;fill:#3c404b;fill-opacity:1;stroke:#63666f;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
            id="rect53357"
@@ -2283,7 +2329,7 @@
     </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#555b6f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45736-9)"
-       d="m 2311.682,2587.337 h 97.8981 v 60.7719 h 41.5926"
+       d="m 2311.682,2587.337 h 97.8981 v 90.7719 h 41.5926"
        id="path80317"
        sodipodi:nodetypes="cccc" />
     <g
@@ -2359,20 +2405,33 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect97939);shape-padding:0.311481;display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
          x="121.06055"
          y="389.60237"
-         id="tspan111012">In selection mode:
+         id="tspan23133">In selection mode:
 </tspan><tspan
          x="121.06055"
          y="406.93565"
-         id="tspan111016"> - Pressing <tspan
+         id="tspan23137"> - Pressing <tspan
    style="font-weight:bold"
-   id="tspan111014">Shift </tspan>while nagivating selects range
+   id="tspan23135">Shift </tspan>while nagivating selects range
 </tspan><tspan
          x="121.06055"
          y="424.26893"
-         id="tspan111022"> - <tspan
+         id="tspan23143"> - <tspan
    style="font-weight:bold"
-   id="tspan111018">Enter</tspan> or <tspan
+   id="tspan23139">Enter</tspan> or <tspan
    style="font-weight:bold"
-   id="tspan111020">Space </tspan>selects focused item</tspan></text>
+   id="tspan23141">Space </tspan>selects focused item</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:0.374017;stroke:#bb02ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.466385;marker-start:url(#Diamond-1);marker-end:url(#marker45736-9)"
+       d="m 2329.33,3392.0705 91.5575,-0.078"
+       id="path14051"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="translate(2308.7427,3005.9675)"
+       id="text14161"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.3;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect14163);shape-padding:0.311481;display:inline;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.572228"><tspan
+         x="121.06055"
+         y="389.60237"
+         id="tspan23145">- Delete button goes inactive if active scene seletect</tspan></text>
   </g>
 </svg>
