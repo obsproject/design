@@ -1121,7 +1121,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.5805418"
      inkscape:cx="391.39068"
-     inkscape:cy="595.99888"
+     inkscape:cy="355.73925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1264,12 +1264,7 @@
          y="2029.2489"
          x="802.79218"
          sodipodi:role="line"
-         id="tspan17808">- Send crash report</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1"
-         y="2045.9155"
-         x="802.79218"
-         sodipodi:role="line"
-         id="tspan23106">- TODO: artwork</tspan></text>
+         id="tspan23106">- Send crash report</tspan></text>
     <text
        id="text6912-7-99"
        y="2777.6475"
@@ -2105,43 +2100,43 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect5526);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
            x="707.91406"
            y="477.4956"
-           id="tspan1631">{
+           id="tspan1341">{
 </tspan><tspan
            x="707.91406"
            y="494.16222"
-           id="tspan1633">    &quot;lorem&quot;: true,
+           id="tspan1343">    &quot;lorem&quot;: true,
 </tspan><tspan
            x="707.91406"
            y="510.82885"
-           id="tspan1635">    &quot;ipsum&quot;: 1325,
+           id="tspan1345">    &quot;ipsum&quot;: 1325,
 </tspan><tspan
            x="707.91406"
            y="527.49548"
-           id="tspan1637">    &quot;dolor&quot;: [
+           id="tspan1347">    &quot;dolor&quot;: [
 </tspan><tspan
            x="707.91406"
            y="544.1621"
-           id="tspan1639">        &quot;sit:1928&quot;,
+           id="tspan1349">        &quot;sit:1928&quot;,
 </tspan><tspan
            x="707.91406"
            y="560.82873"
-           id="tspan1641">        &quot;amet:15&quot;,
+           id="tspan1351">        &quot;amet:15&quot;,
 </tspan><tspan
            x="707.91406"
            y="577.49535"
-           id="tspan1643">        &quot;consectetur:982&quot;,
+           id="tspan1353">        &quot;consectetur:982&quot;,
 </tspan><tspan
            x="707.91406"
            y="594.16198"
-           id="tspan1645">        &quot;adipiscing:468&quot;,
+           id="tspan1355">        &quot;adipiscing:468&quot;,
 </tspan><tspan
            x="707.91406"
            y="610.82861"
-           id="tspan1647">    ]
+           id="tspan1357">    ]
 </tspan><tspan
            x="707.91406"
            y="627.49523"
-           id="tspan1649">}
+           id="tspan1359">}
 </tspan></text>
       <text
          xml:space="preserve"
@@ -2150,7 +2145,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect11521);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
            x="871.89631"
            y="422.86019"
-           id="tspan1651">Crash Report #685</tspan></text>
+           id="tspan1361">Crash Report #685</tspan></text>
       <g
          id="g2496"
          transform="translate(1621.5098,-4402.8802)"
