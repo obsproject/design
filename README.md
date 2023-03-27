@@ -5,6 +5,7 @@ final or representative of what next releases of OBS Studio will contain.
 
 ### Folder Layout
 
+ * **illustrations**: drawings and colorful illustrations used in mockups
  * **mockups**: mockups that are more or less ready for implementation
  * **resources**: templates widgets, containers, windows, and patterns used by
    the mockups
