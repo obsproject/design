@@ -1119,9 +1119,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7930623"
-     inkscape:cx="402.10538"
-     inkscape:cy="520.89657"
+     inkscape:zoom="2.5805418"
+     inkscape:cx="391.39068"
+     inkscape:cy="595.99888"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1488,7 +1488,7 @@
       </g>
       <g
          id="g10568"
-         transform="matrix(0.51255279,0,0,0.51255279,455.96718,-4742.1552)">
+         transform="matrix(0.45208258,0,0,0.45208258,592.76639,-4609.0149)">
         <path
            id="rect1722-1"
            style="fill:url(#linearGradient4128-9);fill-opacity:1;stroke:none;stroke-width:2.52953;stroke-opacity:0.956856;stop-color:#000000"
@@ -2105,43 +2105,43 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect5526);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
            x="707.91406"
            y="477.4956"
-           id="tspan34817">{
+           id="tspan1631">{
 </tspan><tspan
            x="707.91406"
            y="494.16222"
-           id="tspan34819">    &quot;lorem&quot;: true,
+           id="tspan1633">    &quot;lorem&quot;: true,
 </tspan><tspan
            x="707.91406"
            y="510.82885"
-           id="tspan34821">    &quot;ipsum&quot;: 1325,
+           id="tspan1635">    &quot;ipsum&quot;: 1325,
 </tspan><tspan
            x="707.91406"
            y="527.49548"
-           id="tspan34823">    &quot;dolor&quot;: [
+           id="tspan1637">    &quot;dolor&quot;: [
 </tspan><tspan
            x="707.91406"
            y="544.1621"
-           id="tspan34825">        &quot;sit:1928&quot;,
+           id="tspan1639">        &quot;sit:1928&quot;,
 </tspan><tspan
            x="707.91406"
            y="560.82873"
-           id="tspan34827">        &quot;amet:15&quot;,
+           id="tspan1641">        &quot;amet:15&quot;,
 </tspan><tspan
            x="707.91406"
            y="577.49535"
-           id="tspan34829">        &quot;consectetur:982&quot;,
+           id="tspan1643">        &quot;consectetur:982&quot;,
 </tspan><tspan
            x="707.91406"
            y="594.16198"
-           id="tspan34831">        &quot;adipiscing:468&quot;,
+           id="tspan1645">        &quot;adipiscing:468&quot;,
 </tspan><tspan
            x="707.91406"
            y="610.82861"
-           id="tspan34833">    ]
+           id="tspan1647">    ]
 </tspan><tspan
            x="707.91406"
            y="627.49523"
-           id="tspan34835">}
+           id="tspan1649">}
 </tspan></text>
       <text
          xml:space="preserve"
@@ -2150,7 +2150,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect11521);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
            x="871.89631"
            y="422.86019"
-           id="tspan34837">Crash Report #685</tspan></text>
+           id="tspan1651">Crash Report #685</tspan></text>
       <g
          id="g2496"
          transform="translate(1621.5098,-4402.8802)"
