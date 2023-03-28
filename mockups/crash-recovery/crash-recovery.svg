@@ -1119,11 +1119,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5805418"
-     inkscape:cx="391.39068"
-     inkscape:cy="355.73925"
+     inkscape:zoom="4.5949911"
+     inkscape:cx="453.97259"
+     inkscape:cy="537.10659"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g10568"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="false"
@@ -1497,40 +1497,42 @@
            inkscape:original-d="m 2326.0861,2253.9871 c -15.8264,-19.0093 -30.4025,-43.5945 -41.8804,-71.5217 -11.4779,-27.9272 -12.2083,-4.5064 -47.0024,-33.3179 -26.096,-21.609 -104.8737,150.7159 -133.9892,193.6316 -22.7493,33.5321 135.4763,-16.5828 94.1169,-17.7702 -63.842,-1.8329 35.8944,-84.658 20.2004,-93.63 -15.694,-8.972 -155.9848,89.7026 -183.2613,114.1848 -27.2765,24.4821 33.6267,16.1016 25.087,69.6494 -8.5398,53.5478 -92.5677,-12.4297 -104.1569,1.0206"
            inkscape:path-effect="#path-effect1232-7" />
         <g
-           id="g85"
-           transform="matrix(-0.99936782,1.7309559,-1.7309559,-0.99936782,3077.6226,1631.5771)">
+           id="g85-3"
+           transform="matrix(-1.0045647,1.7399569,-1.7399569,-1.0045647,3078.1854,1630.7906)">
           <g
-             id="g12859"
-             transform="matrix(0.98281321,0,0,0.98281321,18.440159,11.046655)">
+             id="g12859-6"
+             transform="matrix(0.965306,-0.09791159,0.09791159,0.965306,17.642613,61.095439)"
+             inkscape:transform-center-x="86.883215"
+             inkscape:transform-center-y="-102.05394">
             <g
-               id="g12857"
+               id="g12857-7"
                transform="matrix(0.73717951,0,0,0.73717951,-179.19544,-190.71946)"
                style="stroke-width:1.35652">
               <path
-                 id="path12855"
+                 id="path12855-5"
                  style="fill:#000000;fill-opacity:0.176471;stroke:none;stroke-width:1.35652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  d="m 851.99953,480.32695 9.80575,-6.9715 -13.77798,-5.15635 z m 60.88148,-138.70617 -6.59872,7.40492 0.47839,4.50194 -4.38813,1.66009 1.40934,3.81058 -7.25158,3.23888 2.50784,4.2163 -62.08645,97.57414 15.04783,16.29932 -3.97223,-12.12785 55.36825,-103.02268 -1.00044,-2.93887 3.56765,-2.74062 1.39779,-3.95165 3.87854,-0.64598 -2.78618,-4.90906 z m 0.34773,-0.23032 -12.22737,3.69614 -0.0759,4.63779 -5.76646,0.77211 -1.86806,4.98165 -7.18205,0.35537 -0.9283,6.05859 -103.23915,81.64534 133.72633,50.0148 3.33244,-117.28222 -6.67363,-5.01677 5.97532,-6.06387 -3.78214,-4.76205 3.98094,-3.95597 -5.88408,-5.47581 z"
                  sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
             </g>
           </g>
           <g
-             id="g3999"
+             id="g3999-3"
              transform="matrix(0.73717951,0,0,0.73717951,-172.95112,-179.90399)"
              style="stroke-width:1.35652">
             <path
                style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.35652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                d="m 913.22874,341.39046 -12.22737,3.69614 -0.0759,4.63779 -5.76646,0.77211 -1.86806,4.98165 -7.18205,0.35537 -0.9283,6.05859 -103.23915,81.64534 133.72633,50.0148 3.33244,-117.28222 -6.67363,-5.01677 5.97532,-6.06387 -3.78214,-4.76205 3.98094,-3.95597 -5.88408,-5.47581 z"
-               id="path1206"
+               id="path1206-5"
                sodipodi:nodetypes="cccccccccccccccc" />
             <path
                style="fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:1.35652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                d="m 912.88101,341.62078 -6.59872,7.40492 0.47839,4.50194 -4.38813,1.66009 1.40934,3.81058 -7.25158,3.23888 2.50784,4.2163 -62.08645,97.57414 16.73856,13.38205 -5.66296,-9.21058 55.36825,-103.02268 -1.00044,-2.93887 3.56765,-2.74062 1.39779,-3.95165 3.87854,-0.64598 -2.78618,-4.90906 z"
-               id="path1208"
+               id="path1208-6"
                sodipodi:nodetypes="ccccccccccccccccc" />
             <path
                style="fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:1.35652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                d="m 853.69026,477.40968 3.56232,-5.70522 -9.22528,-3.50536 z"
-               id="path1228"
+               id="path1228-2"
                sodipodi:nodetypes="cccc" />
           </g>
         </g>
@@ -2100,43 +2102,43 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect5526);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
            x="707.91406"
            y="477.4956"
-           id="tspan1341">{
+           id="tspan1685">{
 </tspan><tspan
            x="707.91406"
            y="494.16222"
-           id="tspan1343">    &quot;lorem&quot;: true,
+           id="tspan1687">    &quot;lorem&quot;: true,
 </tspan><tspan
            x="707.91406"
            y="510.82885"
-           id="tspan1345">    &quot;ipsum&quot;: 1325,
+           id="tspan1689">    &quot;ipsum&quot;: 1325,
 </tspan><tspan
            x="707.91406"
            y="527.49548"
-           id="tspan1347">    &quot;dolor&quot;: [
+           id="tspan1691">    &quot;dolor&quot;: [
 </tspan><tspan
            x="707.91406"
            y="544.1621"
-           id="tspan1349">        &quot;sit:1928&quot;,
+           id="tspan1693">        &quot;sit:1928&quot;,
 </tspan><tspan
            x="707.91406"
            y="560.82873"
-           id="tspan1351">        &quot;amet:15&quot;,
+           id="tspan1695">        &quot;amet:15&quot;,
 </tspan><tspan
            x="707.91406"
            y="577.49535"
-           id="tspan1353">        &quot;consectetur:982&quot;,
+           id="tspan1697">        &quot;consectetur:982&quot;,
 </tspan><tspan
            x="707.91406"
            y="594.16198"
-           id="tspan1355">        &quot;adipiscing:468&quot;,
+           id="tspan1699">        &quot;adipiscing:468&quot;,
 </tspan><tspan
            x="707.91406"
            y="610.82861"
-           id="tspan1357">    ]
+           id="tspan1701">    ]
 </tspan><tspan
            x="707.91406"
            y="627.49523"
-           id="tspan1359">}
+           id="tspan1703">}
 </tspan></text>
       <text
          xml:space="preserve"
@@ -2145,7 +2147,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect11521);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
            x="871.89631"
            y="422.86019"
-           id="tspan1361">Crash Report #685</tspan></text>
+           id="tspan1705">Crash Report #685</tspan></text>
       <g
          id="g2496"
          transform="translate(1621.5098,-4402.8802)"

@@ -5,9 +5,9 @@
    width="512"
    height="320"
    viewBox="0 0 512.00002 320"
-   sodipodi:docname="alldone.svg"
+   sodipodi:docname="crashed-plane.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="/var/home/jimmac/SparkleShare/app-illustrations/experiment/todo/todo-paperplane.png"
+   inkscape:export-filename="crashed-plane.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -344,9 +344,9 @@
      borderlayer="true"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.9378753"
-     inkscape:cx="189.38267"
-     inkscape:cy="227.05279"
+     inkscape:zoom="1.7783714"
+     inkscape:cx="236.73345"
+     inkscape:cy="162.50823"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -415,7 +415,9 @@
        transform="matrix(-0.88879102,1.539431,-1.539431,-0.88879102,1006.5913,-438.83815)">
       <g
          id="g12859"
-         transform="matrix(0.98281321,0,0,0.98281321,18.440159,11.046655)">
+         transform="matrix(0.965306,-0.09791159,0.09791159,0.965306,17.642613,61.095439)"
+         inkscape:transform-center-x="86.883215"
+         inkscape:transform-center-y="-102.05394">
         <g
            id="g12857"
            transform="matrix(0.73717951,0,0,0.73717951,-179.19544,-190.71946)"
