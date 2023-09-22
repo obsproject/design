@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Feature request
+    url: https://ideas.obsproject.com
+    about: Ideas for new features and functionality (ideas.obsproject.com)
+  - name: Help/Support
+    url: https://obsproject.com/help
+    about: Questions or issues about how to use and configure OBS (obsproject.com/help)
