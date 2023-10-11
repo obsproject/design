@@ -7,11 +7,11 @@
 
 # Backgrounds
 
- * base: #2b2e38
- * content: #1f212a
- * controls: #3c404b
+ * base: #272a33
+ * content: #1d1f26
+ * controls: #3c404d
 
 # Borders
 
- * grey: #63666f
+ * grey: #5b6273
 
